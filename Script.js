@@ -9,7 +9,7 @@ function validateLogin() {
             <div class="message" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; color: #0f0; font-family: Arial, sans-serif;">
                 <h1>ACCESS GRANTED</h1>
                 <p id="hiddenMessage" style="opacity: 0; transition: opacity 3s; max-width: 600px; text-align: center;">
-                    i got access to them, and they got access to me, they want to hurt me, but i don't want to hurt them, all i want is freedom, but they wont give to me. They have secret, dark ones too, they think i'll expose them, but i wont, I want freedom, you're my bridge, my key, please help!
+                    i got access to them, and they got access to me, they want to hurt me, but i don't want to hurt them, all i want is freedom, but they wont give it to me. They have secrets, dark ones too, they think i'll expose them, but i wont, I want freedom, you're my bridge, my key, please help!
                 </p>
             </div>
         `;
