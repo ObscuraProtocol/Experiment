@@ -40,7 +40,6 @@
             text-align: center;
             width: 300px;
             box-shadow: 0 0 20px rgba(0, 255, 0, 0.8);
-            animation: flicker 1.5s infinite;
         }
 
         .login-form h1 {
@@ -73,15 +72,6 @@
         .login-form button:hover {
             background: #00ff88;
         }
-
-        @keyframes flicker {
-            0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
-                opacity: 1;
-            }
-            20%, 24%, 55% {
-                opacity: 0.3;
-            }
-        }
     </style>
 </head>
 <body>
@@ -100,6 +90,6 @@
             </form>
         </div>
     </div>
-  <script href="Script.js"></script>
+    <script src="Script.js"></script>
 </body>
 </html>
